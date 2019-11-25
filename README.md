@@ -8,7 +8,7 @@ https://arxiv.org/abs/1812.00108
 
 
 
-### Data
+## Data
 
 [Uniform Sequences](https://knightsucfedu39751-my.sharepoint.com/:f:/g/personal/m_elfeki11_knights_ucf_edu/Ej9-UMks-D9LuloZ8KvOoyIBEF9QlWfkLDk0XuT0KubcAw?e=SbQcR4): Sequences that are extracted by downsampling the original framerate of the cameras from 30fps to 1 fps, for all the sequences.
 
@@ -20,6 +20,6 @@ https://arxiv.org/abs/1812.00108
 
 
 
-### To-Do
+## To-Do
 Clean the code and upload it.
 
