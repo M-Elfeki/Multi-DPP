@@ -1,4 +1,8 @@
 # Multi-DPP
+
+<img src="/Visualization.png" />
+
+
 Multi-stream Dynamic Video Summarization with an extended Determinantal point process in supervised and unsupervised settings
 https://arxiv.org/abs/1812.00108
 
