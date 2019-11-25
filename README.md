@@ -1,5 +1,5 @@
 # Multi-DPP
-Multi-view Egocentric Video Summarization using a Supervised approach by modifying Determinantal point process
+Multi-stream Dynamic Video Summarization with an extended Determinantal point process in supervised and unsupervised settings
 https://arxiv.org/abs/1812.00108
 
 
